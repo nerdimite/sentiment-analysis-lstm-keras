@@ -34,7 +34,7 @@ hub build --deploy
 
 4. The process can take around 3 minutes and once deployed you will get your API endpoint.
 5. To invoke your API you need to create/get your API Key from the [Deployment Dashboard](https://console.cellstrathub.com/deployments)
-6. Now you can invoke your API endpoint and you can make `GET` request to load the model in memory and `POST` request to make predictions by sending a base64 encoded image of the digit.
+6. Now you can invoke your API endpoint and you can make `GET` request to load the model in memory and `POST` request to make predictions by sending your input text as a string.
 
 [Learn More about Deployment here](https://docs.cellstrathub.com/HubAPI%20Deployment%20%F0%9F%9A%80/quickstart)
 
