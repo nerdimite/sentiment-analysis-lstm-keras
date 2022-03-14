@@ -47,7 +47,7 @@ If you wish to deploy your own version of the application with your own API endp
 - During development, add the endpoint url and key to the `.env.local` file like this
 
 ```
-NEXT_PUBLIC_ENDPOINT=https://api.cellstrathub.com/<your username>/digit
+NEXT_PUBLIC_ENDPOINT=https://api.cellstrathub.com/<your username>/sentiment-lstm
 NEXT_PUBLIC_API_KEY=<your key here>
 ```
 
