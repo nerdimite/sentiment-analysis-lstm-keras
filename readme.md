@@ -12,7 +12,7 @@
 
 This repository contains the source code for an end-to-end project for sentiment analysis from training the model using tensorflow/keras to deploying the model as an API using [CellStrat Hub](https://cellstrathub.com) and building a Web Application to invoke the API.
 
-[Play with the Web Application Here]()
+[Play with the Web Application Here](https://sentiment-lstm.netlify.app/)
 
 ## Usage
 
@@ -25,7 +25,8 @@ This repository contains the source code for an end-to-end project for sentiment
 
 1. Clone the repo in [CellStrat Hub](https://cellstrathub.com) Workspace.
 2. Open a terminal and change directory to `sentiment-api`.
-3. Directly run the build and deploy command by running the following command:
+3. Add the `model-twitter.h5` and `tokenizer-twitter.json` to the `model` directory
+4. Execute the build and deploy command:
 
 ```bash
 hub build --deploy
