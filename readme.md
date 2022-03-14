@@ -12,7 +12,7 @@
 
 This repository contains the source code for an end-to-end project for sentiment analysis from training the model using tensorflow/keras to deploying the model as an API using [CellStrat Hub](https://cellstrathub.com) and building a Web Application to invoke the API.
 
-[Play with the Web Application Here](https://sentiment-analyser.netlify.app)
+[Play with the Web Application Here]()
 
 ## Usage
 
