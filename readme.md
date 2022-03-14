@@ -18,7 +18,7 @@ This repository contains the source code for an end-to-end project for sentiment
 
 ### Training
 
-- The model is trained on the MNIST dataset
+- The model is trained on the [Sentiment140 Dataset](https://www.kaggle.com/kazanova/sentiment140) which contains 1.6 million tweets that are labelled as positive or negative.
 - To Train the model, run the [Tweet-Sentiment-Analysis-LSTM.ipynb](Tweet-Sentiment-Analysis-LSTM.ipynb) notebook
 
 ### Deployment as a REST API
