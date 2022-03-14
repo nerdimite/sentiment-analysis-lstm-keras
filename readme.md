@@ -19,7 +19,7 @@ This repository contains the source code for an end-to-end project for sentiment
 ### Training
 
 - The model is trained on the MNIST dataset
-- To Train the model, run the [Sentiment-Analysis-LSTM.ipynb](Sentiment-Analysis-LSTM.ipynb) notebook
+- To Train the model, run the [Tweet-Sentiment-Analysis-LSTM.ipynb](Tweet-Sentiment-Analysis-LSTM.ipynb) notebook
 
 ### Deployment as a REST API
 
